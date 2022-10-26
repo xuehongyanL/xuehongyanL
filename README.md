@@ -2,6 +2,6 @@
 
 #### I'm a second year Phd student in Beijing, China.
 
-- 👀 Interested in RL, Inverse RL and Imitation Learning
+- 👀 Interested in Explainable RL, RL's explainable applications, and Imitation Learning
 - ⚙️ Front-end developing skills
 - ⚽ Fan of 🐝 Borussia Dortmund
